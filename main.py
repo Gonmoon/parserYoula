@@ -7,7 +7,7 @@ from urllib import parse
 
 
 # ------Данные-----
-cookies = {'cookies_are' : "mrcu=473561E1C915210821485EEAF997; tmr_lvid=84c94503cb2d85fc729f6db5c59adcfe; tmr_lvidTS=1642187031995; sessid=0i770uaub6a6u8m08vl5u8ag20; _youla_uid=61e1c923cf5d3; _ga=GA1.2.1271268348.1642187050; _gid=GA1.2.1018182052.1642187050; _ym_uid=1642187051688775794; _ym_d=1642187051; _ym_isad=1; mr1lad=61e2b505616da439-300-300-; tmr_detect=1%7C1642247431102; SL_G_WPT_TO=ru; cto_bundle=Ht5Cp19WZ0x4Mmc2QmR0TEhUVHBBJTJGRG12JTJGb0xhclZocEpxMWJPQVRrJTJGQ0VMQXR4OUY3T0tPeEdmdThscjA2SkZYRDlvbGJJRnlPVWNGa3VtJTJGSW5aJTJGN01NMVY3bVp0V2NwZm1uJTJGVDVhcVBna3hkTWZ4aHdXZE9xSjlHTmxlWDdlczhNY2MzcGowJTJGWU5BRzYyVUZncHUxbiUyRmdBJTNEJTNE; SL_GWPT_Show_Hide_tmp=1; SL_wptGlobTipTmp=1; tmr_reqNum=86"}
+cookies = {'cookies_are' : "your_cooki"}
 headers = {
    'content-type' : 'application/json',
    'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
